@@ -1,0 +1,6 @@
+{
+  "name": "VEMS",
+  "description": "VEMS is an employee-management workspace connecting HR, department managers, and employees for attendance, leave, tasks, meetings, holidays, and notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
